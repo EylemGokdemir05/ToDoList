@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "231693421753",
+    "firebase_url": "https://todolist-a90ca.firebaseio.com",
+    "project_id": "todolist-a90ca",
+    "storage_bucket": "todolist-a90ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231693421753:android:0a3c9e876d253c07885f68",
+        "android_client_info": {
+          "package_name": "com.eylem.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231693421753-29sv8iva677lt0qrgq00n8ohl17p3e3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvMaCSV2Dsyq3bGrN-Z3kuxNEBnyRLeWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231693421753-29sv8iva677lt0qrgq00n8ohl17p3e3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
